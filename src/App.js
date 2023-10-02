@@ -1,5 +1,5 @@
 import React from 'react';
-import Items from './components/addFood/Items'
+import Items from './components/bot/components_bot/Web'
 function App() {
   return (
       <React.Fragment>
